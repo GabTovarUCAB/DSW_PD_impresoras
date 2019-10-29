@@ -1,3 +1,6 @@
+## NOTA: La solución propuesta y sus modelos de diagramas se encuentran en la WIKI de este mismo repositorio.
+
+
 # DSW_PD_impresoras
 Actividad donde se aplican los conocimientos de Patrones de Diseños, Diagrama de Clases y Diagrama de Secuencias para la materia Desarrollo de Software, Sep-Ene 2019.
 
@@ -23,3 +26,5 @@ Presentar la implementacion, en el lenguaje de su preferencia, la implementació
 URL del repositorio con los artefactos mencionados en la seccion de Requerimientos.
 Adjuntar los diagramas de clases y secuencia en el repositorio.
 La tarea debe ser entregada en equipos de maximo 3 personas, equipos de proyectos por facilidad.
+
+
